@@ -1,4 +1,4 @@
-# test self host
+# test self host 2
 name: My First GitHub Actions
 
 on: [push]
